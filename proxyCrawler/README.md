@@ -1,5 +1,5 @@
 # ProxySpider
-爬取http://www.xicidaili.com/上代理IP，并验证代理可用性
+爬取www.kuaidaili.com上代理IP，并验证代理可用性
 
 #使用方法：
 直接运行httpproxy.py
